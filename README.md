@@ -25,7 +25,7 @@ It uses PyQt5 for the GUI and incorporates complex calculations for distillation
 ## Installation
 
 1. Clone this repository:
-   git clone https://github.com/yourusername/distillation-column-sequencing.git
+   git clone https://github.com/FlameGreat-1/distillation-column-Algorithm.git
 
 
 2. Navigate to the project directory:
@@ -66,5 +66,5 @@ Contributions to this project are welcome. Please fork the repository and submit
                -[eugochukwu77@gmail.com]
                - [12348136872013]
 
-Project Link: [https://github.com/FlameGreat_1/distillation-column-sequencing](https://github.com/yourusername/distillation-column-algorithm)
+Project Link: [https://github.com/FlameGreat_1/distillation-column-sequencing](https://github.com/FlameGreat-1/distillation-column-algorithm)
 
