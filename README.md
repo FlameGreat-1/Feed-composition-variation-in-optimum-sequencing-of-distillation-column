@@ -66,5 +66,5 @@ Contributions to this project are welcome. Please fork the repository and submit
                -[eugochukwu77@gmail.com]
                - [12348136872013]
 
-Project Link: [https://github.com/FlameGreat_1/distillation-column-sequencing](https://github.com/FlameGreat-1/distillation-column-algorithm)
+Project Link: https://github.com/FlameGreat-1/Feed-composition-variation-in-optimum-sequencing-of-distillation-column
 
