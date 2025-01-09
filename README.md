@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Feed Composition Variation in Optimum Sequencing of Distillation Column
 
 ## Description
@@ -68,8 +68,3 @@ Contributions to this project are welcome. Please fork the repository and submit
                - [12348136872013]
 
 Project Link: https://github.com/FlameGreat-1/Feed-composition-variation-in-optimum-sequencing-of-distillation-column
-
-=======
-# Feed-composition-variation-in-optimum-sequencing-of-distillation-column
-Determining optimum in Distillation column sequence 
->>>>>>> origin/main
